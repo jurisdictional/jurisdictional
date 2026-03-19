@@ -1,0 +1,43 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jurisdictional banner</title>
+  <desc id="desc">A structured blue-and-white banner for Jurisdictional with a civic systems diagram and the phrase A unified interface to government.</desc>
+  <defs>
+    <linearGradient id="bg" x1="164" y1="32" x2="1115" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#EFF6FF"/>
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#D9E5F2" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)" opacity="0.72"/>
+  <rect x="88" y="82" width="8" height="190" fill="#2798E8"/>
+  <text x="120" y="108" fill="#2798E8" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="19" font-weight="700" letter-spacing="2.8">JURISDICTIONAL</text>
+  <text x="120" y="176" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">A unified interface</text>
+  <text x="120" y="240" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">to government</text>
+  <text x="120" y="292" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="24">From address to jurisdiction stack to agencies, officials, and services.</text>
+  <text x="120" y="348" fill="#64748B" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="17">CLEAR FOR OBSERVERS. USEFUL FOR PRACTITIONERS. OPEN TO BUILDERS.</text>
+  <rect x="758" y="92" width="382" height="58" rx="12" fill="#FFFFFF" stroke="#2798E8" stroke-width="3"/>
+  <text x="788" y="128" fill="#0F172A" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="20" font-weight="700">ADDRESS OR PLACE</text>
+  <rect x="828" y="171" width="312" height="58" rx="12" fill="#2798E8"/>
+  <text x="858" y="207" fill="#FFFFFF" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="20" font-weight="700">JURICODE</text>
+  <text x="968" y="207" fill="#DBEAFE" font-family="Arial, Helvetica, sans-serif" font-size="16">the jurisdiction stack</text>
+  <rect x="722" y="254" width="198" height="58" rx="12" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+  <text x="746" y="289" fill="#334155" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="18" font-weight="700">BOUNDARIES</text>
+  <rect x="946" y="254" width="194" height="58" rx="12" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+  <text x="972" y="289" fill="#334155" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="18" font-weight="700">AGENCIES</text>
+  <rect x="811" y="336" width="329" height="58" rx="12" fill="#0F172A"/>
+  <text x="840" y="372" fill="#FFFFFF" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="19" font-weight="700">OFFICIALS + SERVICES</text>
+  <path d="M949 150V167" stroke="#2798E8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M984 229V246" stroke="#2798E8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M984 229L821 254" stroke="#94A3B8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M984 229L1043 254" stroke="#94A3B8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M821 312L921 336" stroke="#0F172A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1043 312L1011 336" stroke="#0F172A" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="949" cy="159" r="6" fill="#2798E8"/>
+  <circle cx="984" cy="238" r="6" fill="#2798E8"/>
+  <circle cx="821" cy="312" r="5" fill="#0F172A"/>
+  <circle cx="1043" cy="312" r="5" fill="#0F172A"/>
+</svg>
+
